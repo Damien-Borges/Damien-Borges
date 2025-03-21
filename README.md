@@ -1,7 +1,3 @@
-# Damien Borges
-
-<img width="362" alt="Capture d’écran 2025-03-21 à 17 30 37" src="https://github.com/user-attachments/assets/8bb41c83-6437-4cc8-abf8-8a119bab3240" />
-
 ## À propos de moi
 
 Je suis un développeur Full Stack passionné par la création de solutions web innovantes et performantes. Avec une solide expérience dans le développement front-end et back-end, je suis capable de gérer des projets de bout en bout, de la conception à la mise en production. Je suis particulièrement intéressé par l'amélioration de l'expérience utilisateur et l'optimisation des performances.
