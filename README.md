@@ -2,8 +2,6 @@
 
 Je suis un **développeur Full Stack** passionné par la création de solutions web innovantes et performantes. Avec une solide expérience en **front-end** et **back-end**, je gère des projets de bout en bout, de la conception à la mise en production. Mon objectif : **améliorer l'expérience utilisateur** et **optimiser les performances** de chaque projet.
 
----
-
 # 💼 Expérience professionnelle
 
 ## **Développeur Full Stack | Nutri&Co** (2022-2024)
@@ -39,14 +37,10 @@ Je suis un **développeur Full Stack** passionné par la création de solutions 
         * **Frameworks & CMS :** WordPress, Shopify.
         * **UI/UX design :** Figma.
 
----
-
 # 🎓 Formation
 
 * **Master option Cloud Computing & Mobility** | Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne (2020-2022)
 * **Licence 3 option Métiers du Numérique** | Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne (2019-2020)
-
----
 
 # 🛠️ Compétences
 
@@ -55,14 +49,10 @@ Je suis un **développeur Full Stack** passionné par la création de solutions 
 * **Frameworks & CMS :** PrestaShop, WordPress, Shopify
 * **UI/UX design :** Figma
 
----
-
 # 🌍 Langues
 
 * **Français :** Langue maternelle
 * **Anglais :** Bon niveau écrit et oral
-
----
 
 # 📞 Me contacter
 
