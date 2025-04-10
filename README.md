@@ -56,6 +56,5 @@ Je suis un **développeur Full Stack** passionné par la création de solutions 
 
 # 📞 Me contacter
 
-* **Téléphone :** 06 12 81 76 93
 * **Email :** [damien.borges777@gmail.com](mailto:damien.borges777@gmail.com)
 * **Portfolio :** [https://damienborges.fr](https://damienborges.fr)
