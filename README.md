@@ -6,23 +6,7 @@ Développeur **logiciel & web** passionné, j’accompagne entreprises et équip
 
 # 💼 Expérience professionnelle
 
-## **Développeur FullStack | Nutri&Co** (2022-2024)
-
-* Développement et optimisation de la boutique **e-commerce PrestaShop**.
-* Création de modules personnalisés et personnalisation avancée du thème.
-* Maintenance, amélioration continue et correction de bugs.
-
-    * **Projets notables :**
-        * 🔄 Refonte complète de la fiche produit.
-        * 🌍 Développement d’une carte interactive des points de vente.
-        * 📝 Refonte du méga menu.
-
-    * **Technologies utilisées :**
-        * **Front-end :** HTML, CSS, JavaScript, React, Bootstrap.
-        * **Back-end :** PHP, MySQL, Symfony.
-        * **Frameworks & CMS :** PrestaShop.
-
-## **Développeur Logiciel | Ortec Group** (2024-Présent)
+## **Développeur Logiciel | Ortec Group** (2025-Présent)
 
 * Développement de **logiciels internes** au sein de l’équipe SIRH pour améliorer la gestion du personnel dans les agences du groupe.
 * Conception et mise en place d’outils facilitant la **gestion des collaborateurs et des ressources**.
@@ -38,6 +22,22 @@ Développeur **logiciel & web** passionné, j’accompagne entreprises et équip
         * **Back-end :** Node.js, PHP.
         * **Base de données :** MySQL.
         * **Outils :** Git, CI/CD.
+        
+## **Développeur FullStack | Nutri&Co** (2023-2025)
+
+* Développement et optimisation de la boutique **e-commerce PrestaShop**.
+* Création de modules personnalisés et personnalisation avancée du thème.
+* Maintenance, amélioration continue et correction de bugs.
+
+    * **Projets notables :**
+        * 🔄 Refonte complète de la fiche produit.
+        * 🌍 Développement d’une carte interactive des points de vente.
+        * 📝 Refonte du méga menu.
+
+    * **Technologies utilisées :**
+        * **Front-end :** HTML, CSS, JavaScript, React, Bootstrap.
+        * **Back-end :** PHP, MySQL, Symfony.
+        * **Frameworks & CMS :** PrestaShop.
 
 # 🎓 Formation
 
