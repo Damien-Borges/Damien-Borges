@@ -1,18 +1,20 @@
 # 👨‍💻 À propos de moi
 
-Je suis un **développeur Full Stack** passionné par la création de solutions web innovantes et performantes. Avec une solide expérience en **front-end** et **back-end**, je gère des projets de bout en bout, de la conception à la mise en production. Mon objectif : **améliorer l'expérience utilisateur** et **optimiser les performances** de chaque projet.
+Développeur **logiciel & web** passionné, j’accompagne entreprises et équipes dans la création de solutions **performantes, maintenables et évolutives**. Mon expertise couvre aussi bien le **front-end** (React, Angular, Vue.js, Next.js) que le **back-end** (PHP, Symfony, MySQL), avec une solide expérience en **e-commerce (PrestaShop, Shopify, WordPress)** et en **applications métiers sur mesure**.  
+
+🎯 Mon objectif : transformer vos besoins en solutions digitales concrètes, avec un code **propre, robuste et optimisé**.
 
 # 💼 Expérience professionnelle
 
-## **Développeur Full Stack | Nutri&Co** (2022-2024)
+## **Développeur Logiciel | Nutri&Co** (2022-2024)
 
-* Responsable de la gestion complète du site Nutri&Co.
-* Développement de nouvelles fonctionnalités, refonte de pages existantes et personnalisation du back-office.
-* Maintenance, amélioration continue et correction des bugs.
+* Développement et optimisation de la boutique **e-commerce PrestaShop**.
+* Création de modules personnalisés et personnalisation avancée du thème.
+* Maintenance, amélioration continue et correction de bugs.
 
     * **Projets notables :**
-        * 🔄 Refonte de la page fiche produit.
-        * 🌍 Refonte de la page carte interactive des points de vente.
+        * 🔄 Refonte complète de la fiche produit.
+        * 🌍 Développement d’une carte interactive des points de vente.
         * 📝 Refonte du méga menu.
 
     * **Technologies utilisées :**
@@ -20,22 +22,22 @@ Je suis un **développeur Full Stack** passionné par la création de solutions 
         * **Back-end :** PHP, MySQL, Symfony.
         * **Frameworks & CMS :** PrestaShop.
 
-## **Développeur Full Stack | PSE Multiservices** (2020-2022)
+## **Développeur Logiciel | PSE Multiservices** (2020-2022)
 
-* Responsable unique des projets web.
-* Gestion des réunions clients, création de maquettes et conception de solutions web/applicatives sur mesure.
-* Développement, optimisation et maintenance des sites et applications.
+* Responsable unique des projets web de l’entreprise.
+* Gestion des réunions clients, maquettage et développement de solutions sur mesure.
+* Développement, optimisation et maintenance de sites et applications.
 
     * **Sites réalisés :**
-        * ⚡ Spim Energies (Installateur de bornes de recharge).
-        * 🏠 PSE Habitat (Rénovation de bâtiments).
-        * 🌱 PSE Environnement (Rénovation énergétique).
+        * ⚡ Spim Energies (installateur de bornes de recharge).
+        * 🏠 PSE Habitat (rénovation de bâtiments).
+        * 🌱 PSE Environnement (rénovation énergétique).
 
     * **Technologies utilisées :**
         * **Front-end :** React, Angular, HTML, CSS, JavaScript.
         * **Back-end :** PHP, MySQL.
         * **Frameworks & CMS :** WordPress, Shopify.
-        * **UI/UX design :** Figma.
+        * **UI design :** Figma.
 
 # 🎓 Formation
 
@@ -47,7 +49,7 @@ Je suis un **développeur Full Stack** passionné par la création de solutions 
 * **Front-end :** Angular, React, Vue.js, Next.js, HTML, CSS, JavaScript, Bootstrap
 * **Back-end :** PHP, Symfony, MySQL
 * **Frameworks & CMS :** PrestaShop, WordPress, Shopify
-* **UI/UX design :** Figma
+* **UI design :** Figma
 
 # 🌍 Langues
 
