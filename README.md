@@ -6,7 +6,7 @@ Développeur **logiciel & web** passionné, j’accompagne entreprises et équip
 
 # 💼 Expérience professionnelle
 
-## **Développeur Logiciel | Nutri&Co** (2022-2024)
+## **Développeur FullStack | Nutri&Co** (2022-2024)
 
 * Développement et optimisation de la boutique **e-commerce PrestaShop**.
 * Création de modules personnalisés et personnalisation avancée du thème.
@@ -22,22 +22,22 @@ Développeur **logiciel & web** passionné, j’accompagne entreprises et équip
         * **Back-end :** PHP, MySQL, Symfony.
         * **Frameworks & CMS :** PrestaShop.
 
-## **Développeur Logiciel | PSE Multiservices** (2020-2022)
+## **Développeur Logiciel | Ortec Group** (2024-Présent)
 
-* Responsable unique des projets web de l’entreprise.
-* Gestion des réunions clients, maquettage et développement de solutions sur mesure.
-* Développement, optimisation et maintenance de sites et applications.
+* Développement de **logiciels internes** au sein de l’équipe SIRH pour améliorer la gestion du personnel dans les agences du groupe.
+* Conception et mise en place d’outils facilitant la **gestion des collaborateurs et des ressources**.
+* Participation à des projets stratégiques liés à la digitalisation des processus RH.
 
-    * **Sites réalisés :**
-        * ⚡ Spim Energies (installateur de bornes de recharge).
-        * 🏠 PSE Habitat (rénovation de bâtiments).
-        * 🌱 PSE Environnement (rénovation énergétique).
+    * **Exemples de réalisations :**
+        * 🗂️ Application interne de gestion des collaborateurs.
+        * 📊 Tableaux de bord et suivi des dotations.
+        * 🔐 Amélioration des processus de gestion des droits et accès.
 
     * **Technologies utilisées :**
-        * **Front-end :** React, Angular, HTML, CSS, JavaScript.
-        * **Back-end :** PHP, MySQL.
-        * **Frameworks & CMS :** WordPress, Shopify.
-        * **UI design :** Figma.
+        * **Front-end :** Angular, TypeScript, HTML, CSS.
+        * **Back-end :** Node.js, PHP.
+        * **Base de données :** MySQL.
+        * **Outils :** Git, CI/CD.
 
 # 🎓 Formation
 
@@ -47,7 +47,7 @@ Développeur **logiciel & web** passionné, j’accompagne entreprises et équip
 # 🛠️ Compétences
 
 * **Front-end :** Angular, React, Vue.js, Next.js, HTML, CSS, JavaScript, Bootstrap
-* **Back-end :** PHP, Symfony, MySQL
+* **Back-end :** PHP, Symfony, Node.js, MySQL
 * **Frameworks & CMS :** PrestaShop, WordPress, Shopify
 * **UI design :** Figma
 
