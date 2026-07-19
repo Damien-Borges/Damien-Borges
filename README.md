@@ -1,62 +1,116 @@
-# 👨‍💻 À propos de moi
+# 👋 Bonjour, moi c'est Damien Borges
 
-Développeur **logiciel & web** passionné, j’accompagne entreprises et équipes dans la création de solutions **performantes, maintenables et évolutives**. Mon expertise couvre aussi bien le **front-end** (React, Angular, Vue.js, Next.js) que le **back-end** (PHP, Symfony, MySQL), avec une solide expérience en **e-commerce (PrestaShop, Shopify, WordPress)** et en **applications métiers sur mesure**.  
+Développeur **Full Stack** spécialisé dans le développement d'applications web et logicielles modernes.
 
-🎯 Mon objectif : transformer vos besoins en solutions digitales concrètes, avec un code **propre, robuste et optimisé**.
+J'aime concevoir des applications performantes, évolutives et maintenables en appliquant les bonnes pratiques de développement, d'architecture et de qualité logicielle.
 
-# 💼 Expérience professionnelle
+Actuellement, je développe des applications métier et des solutions web avec **Angular**, **React**, **Next.js**, **Spring Boot**, **Node.js** et **PHP**.
 
-## **Développeur Logiciel | Ortec Group** (2025-Présent)
+---
 
-* Développement de **logiciels internes** au sein de l’équipe SIRH pour améliorer la gestion du personnel dans les agences du groupe.
-* Conception et mise en place d’outils facilitant la **gestion des collaborateurs et des ressources**.
-* Participation à des projets stratégiques liés à la digitalisation des processus RH.
+## 🚀 À propos
 
-    * **Exemples de réalisations :**
-        * 🗂️ Application interne de gestion des collaborateurs.
-        * 📊 Tableaux de bord et suivi des dotations.
-        * 🔐 Amélioration des processus de gestion des droits et accès.
+- 💼 Développeur logiciel
+- 🌍 Basé en France
+- 🎓 Master Cloud Computing & Mobility
+- 💻 Passionné par les architectures modernes, les applications métiers et le développement Full Stack
+- ⚡ Toujours à la recherche de nouvelles technologies et bonnes pratiques
 
-    * **Technologies utilisées :**
-        * **Front-end :** Angular, TypeScript, HTML, CSS.
-        * **Back-end :** Node.js, PHP.
-        * **Base de données :** MySQL.
-        * **Outils :** Git, CI/CD.
-        
-## **Développeur FullStack | Nutri&Co** (2023-2025)
+---
 
-* Développement et optimisation de la boutique **e-commerce PrestaShop**.
-* Création de modules personnalisés et personnalisation avancée du thème.
-* Maintenance, amélioration continue et correction de bugs.
+# 🛠️ Stack technique
 
-    * **Projets notables :**
-        * 🔄 Refonte complète de la fiche produit.
-        * 🌍 Développement d’une carte interactive des points de vente.
-        * 📝 Refonte du méga menu.
+### Front-end
 
-    * **Technologies utilisées :**
-        * **Front-end :** HTML, CSS, JavaScript, React, Bootstrap.
-        * **Back-end :** PHP, MySQL, Symfony.
-        * **Frameworks & CMS :** PrestaShop.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+
+### Base de données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 💼 Expériences
+
+## Développeur Logiciel • Ortec Group
+
+- Développement d'applications métier pour le SIRH
+- Conception de modules de gestion des collaborateurs
+- Développement de tableaux de bord
+- Gestion des habilitations et des droits d'accès
+- Participation à la digitalisation des processus RH
+
+**Technologies**
+
+`Angular` • `TypeScript` • `Node.js` • `PHP` • `MySQL`
+
+---
+
+## Développeur Full Stack • Nutri&Co
+
+- Développement de modules PrestaShop
+- Refonte de la fiche produit
+- Développement d'une carte interactive des points de vente
+- Optimisation des performances
+- Maintenance évolutive de la plateforme e-commerce
+
+**Technologies**
+
+`PHP` • `Symfony` • `MySQL` • `JavaScript` • `React` • `Bootstrap`
+
+---
+
+# 🚀 Projets
+
+| Projet | Description |
+|---------|-------------|
+| **Voisy** | Plateforme collaborative de gestion de copropriétés développée avec Next.js 15 et Supabase. |
+| **Portfolio** | Portfolio Full Stack administrable avec Next.js, Drizzle ORM, PostgreSQL et Auth.js. |
+| **Personal Portfolio** | Site personnel moderne présentant mon parcours et mes réalisations. |
+
+---
 
 # 🎓 Formation
 
-* **Master option Cloud Computing & Mobility** | Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne (2020-2022)
-* **Licence 3 option Métiers du Numérique** | Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne (2019-2020)
+**Master Cloud Computing & Mobility**
 
-# 🛠️ Compétences
+Université de Picardie Jules Verne
 
-* **Front-end :** Angular, React, Vue.js, Next.js, HTML, CSS, JavaScript, Bootstrap
-* **Back-end :** PHP, Symfony, Node.js, MySQL
-* **Frameworks & CMS :** PrestaShop, WordPress, Shopify
-* **UI design :** Figma
+**Licence Métiers du Numérique**
 
-# 🌍 Langues
+Université de Picardie Jules Verne
 
-* **Français :** Langue maternelle
-* **Anglais :** Bon niveau écrit et oral
+---
 
-# 📞 Me contacter
+# 📫 Contact
 
-* **Email :** [damien.borges777@gmail.com](mailto:damien.borges777@gmail.com)
-* **Portfolio :** [https://damienborges.fr](https://damienborges.fr)
+🌐 Portfolio : **https://damienborges.fr**
+
+---
+
+> *"Clean code, scalable architecture and user-focused development."*
