@@ -18,11 +18,14 @@ Je conçois des applications utiles et robustes, avec une attention particulièr
 ## Expérience
 
 ### Développeur logiciel — Capgemini
-*Mission dans le secteur de la défense navale · depuis octobre 2026*
+*Depuis juin 2026 · mission dans le secteur naval depuis octobre 2026*
 
-- Participation au développement et à l'évolution de solutions logicielles métier.
-- Travail dans un environnement d'équipe avec revue de code, intégration continue et livraisons contrôlées.
-- Contribution à des applications modernes, distribuées et maintenables.
+- Contribution à une plateforme de traitement de données en temps réel reposant sur une architecture microservices et événementielle.
+- Travail dans un environnement distribué utilisant notamment Java, Quarkus, Angular, Kafka et Redis.
+- Participation à une démarche de qualité logicielle : revue de code, tests, intégration continue et déploiements contrôlés avec GitLab CI, Docker et Kubernetes.
+- Découverte et pratique de composants complémentaires, dont Rust, selon les besoins de l'architecture.
+
+Les éléments publiés restent volontairement génériques et ne décrivent pas les fonctionnalités sensibles du système.
 
 ### Développeur logiciel — Ortec Group
 *Applications métier · SIRH*
@@ -57,56 +60,42 @@ Je conçois des applications utiles et robustes, avec une attention particulièr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Back-end
+### Back-end et langages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
-### Données
+### Données et messagerie
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Outils et livraison
+### Outils, CI/CD et déploiement
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Projets
-
-### [Portfolio personnel](https://damienborges.fr)
-
-Portfolio bilingue présentant mon parcours, mes compétences et des études de cas de projets. Le site intègre une interface d'administration, une gestion de contenu, un CV imprimable et des optimisations SEO.
-
-**Stack :** Next.js, React, TypeScript, Drizzle ORM, PostgreSQL.
-
-### Voisy
-
-Plateforme collaborative de gestion de copropriétés.
-
-**Stack :** Next.js, Supabase.
-
-### Applications métier et outils internes
-
-Développement de fonctionnalités web et de modules orientés gestion des collaborateurs, processus métier et exploitation des données.
 
 ---
 
 ## Formation
 
-**Master Cloud Computing & Mobility**  
-Université de Picardie Jules Verne
+**Master — Cloud Computing & Mobility** · 2021–2023  
+Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne — Amiens
 
-**Licence Métiers du Numérique**  
-Université de Picardie Jules Verne
+**Licence 3 — Métiers du Numérique** · 2020–2021  
+Institut Supérieur des Sciences et Techniques, Université de Picardie Jules Verne — Amiens
 
 ---
 
